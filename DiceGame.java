@@ -36,3 +36,5 @@ public class DiceGame {
 	}
 
 }
+
+// Ok...make sure to do the Automobile labs as they are a bit simpler
